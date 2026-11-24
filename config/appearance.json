@@ -1,0 +1,6 @@
+{
+  "preset": "sapphire",
+  "custom_hex": "#3E91F7",
+  "satellite_enabled": true,
+  "notch_material": "oled_black"
+}
